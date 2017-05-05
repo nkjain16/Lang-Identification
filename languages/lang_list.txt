@@ -1,0 +1,3 @@
+fr French french.txt 25
+en English english.txt 31
+de German german.txt 25
